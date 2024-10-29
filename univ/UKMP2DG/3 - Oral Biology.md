@@ -1,5 +1,9 @@
 # <center>Oral Biology</center>
 
+[toc]
+
+---
+
 ## Papila lidah
 
 - P. Filiformis 

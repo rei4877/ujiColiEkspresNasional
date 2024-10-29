@@ -1,5 +1,9 @@
 # <center>IKGA</center>
 
+[toc]
+
+---
+
 ## Tahap tumbuh kembang
 
 1.  Inisiasi - mgg. 8

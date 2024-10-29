@@ -1,5 +1,9 @@
 # <center>Ortodonsia</center>
 
+[toc]
+
+---
+
 ## Relasi molar
 
 <img src="../../_resources/76de85eacede22f582f1241b54ddaae2.png" width="350" class="jop-noMdConv">
@@ -111,7 +115,7 @@
 - Tongue blade
 	- Sama seperti posterior bite plane; jika pasien kooperatif
  
-> 📝 **Note:** Jika di soal terdapat ***Freeway space***: Tanpa peninggian gigit
+> 📝 **Note:** Jika di soal terdapat ***Freeway space*** &rarr; Tanpa peninggian gigit
 
 - Hollow bite plane
 	- Deep bite; diastema sentralis
@@ -155,8 +159,7 @@ Rumus:
 - I - SN (Insisif atas - maksila)
 - I - MP (Insisif bawah - mmandibula)
 - Bimaxillary dental
-	- Jika kedua rahang protrusi/retrusi
-	- Bimaxillary prognati *atau* bimaxillary retrognati
+	- Jika kedua rahang protrusi/retrusi: Bimaxillary prognati *atau* bimaxillary retrognati
 
 ---
 
@@ -233,3 +236,12 @@ Teori yang digunakan pada ortodonti &rarr; Pressure-Tension
 		- Palatum tinggi & sempit
 		- Protrusi anterior
 		- Open bite
+
+---
+
+## Jenis perawatan ortodonti
+
+- Terdapat 3 jenis perawatan ortodonti:
+	- **Preventif**: Berarti mencegah. Contoh: Pembuatan space maintainer yang dimana maloklusi belum terjadi namun berpotensi terjadi
+	- **Interseptif**: Dimana maloklusi telah terjadi, dan tujuan dilakukan perawatan ortodonti yaitu mengintersepsi maloklusi yang terjadi. **Biasa dilakukan pada tahap tumbuh kembang**
+	- **Korektif**: Yang berarti memperbaiki. Disini maloklusi sudah terjadi dan penderita sudah dewasa/tidak di tahap tumbuh kembang lagi

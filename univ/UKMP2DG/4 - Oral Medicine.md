@@ -1,5 +1,9 @@
 # <center>Oral Medicine</center>
 
+[toc]
+
+---
+
 ## Lesi primer
 
 | Makula            | Bercak            | Papula                               | Plak                                 | Vesikel                                      | Bulla                                        |

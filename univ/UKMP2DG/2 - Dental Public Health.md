@@ -1,5 +1,9 @@
 # <center>Dental Public Health</center>
 
+[toc]
+
+---
+
 ## Teori Pencegahan Leavell & Clark
 
 Menurut **Leavell & Clark**, terdapat 3 teori pencegahan: Primary, Secondary, dan Tertiary:
@@ -22,11 +26,6 @@ Menurut **Leavell & Clark**, terdapat 3 teori pencegahan: Primary, Secondary, da
 
 	- **Rehabilitation (Rehabilitasi)**
 		- Masalah dental sudah terjadi dan sudah terlalu parah, dan sudah final, seperti kasus kehilangan gigi. Contoh perawatan yang dilakukan disini yaitu seperti pembuatan gigi tiruan.
-
-- Terdapat 3 jenis perawatan ortodonti:
-	- **Preventif**: Berarti mencegah. Contoh: Pembuatan space maintainer yang dimana maloklusi belum terjadi namun berpotensi terjadi
-	- **Interseptif**: Dimana maloklusi telah terjadi, dan tujuan dilakukan perawatan ortodonti yaitu mengintersepsi maloklusi yang terjadi. **Biasa dilakukan pada tahap tumbuh kembang**
-	- **Korektif**: Yang berarti memperbaiki. Disini maloklusi sudah terjadi dan penderita sudah dewasa/tidak di tahap tumbuh kembang lagi
 
 ## Teori Lawrence Green
 
@@ -157,6 +156,8 @@ Terdapat 3 item:
 
 	***
 
+## DMFT, DMFS, dan deft
+
 - DMFT
 	- Decay-Missing-Filled Teeth
 	- Untuk masyarakat dewasa
@@ -212,6 +213,8 @@ Terdapat 3 item:
 	- Magnitude, Severity, Vulnerability, Community concern
 
 ---
+
+## extranotes, lmao
 
 - Klinik Pratama
 	- Dokter umum DAN dokter gigi

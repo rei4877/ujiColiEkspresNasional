@@ -1,9 +1,11 @@
 # <center>Etika</center>
 
+[TOC]
+
+## Perundang-undangan
+
 - UU No. 29 Tahun 2004: Merupakan Undang-undang yang menjadi dasar mengenai pelanggaran-pelanggaran di Indonesia
 - Terdapat 28 bentuk pelanggaran menurut KKI (Konsil Kedokteran Indonesia)
-- Malpraktek bukan termasuk dari pelanggaran hukum
-- *Veracity*: Berarti "Kejujuran"
 
 ---
 
@@ -17,6 +19,11 @@
 | Disusun oleh | IDI, PDGI          | KKI                                   | Negara              |
 | Sanksi       | Moral, nasihat     | Teguran &rarr; Re-edukasi &rarr; Pencabutan STR | Pidana, Perdata     |
 | Pemeriksa    | MKEK               | MKDKI                                 | Pengadilan          |
+
+- Malpraktek bukan termasuk dari pelanggaran hukum
+	- Namun lebih ke disiplin
+- *Veracity*: Berarti "Kejujuran"
+
 
 ---
 
@@ -50,6 +57,27 @@ Arti lainnya yaitu *do no harm* yang berarti tidak boleh membahayakan/merugikan.
 
 ---
 
+## Profesionalisme
+
+Terdapat empat komponen utama profesionalisme kedokteran:
+
+### Excellence (Keunggulan)
+Keunggulan mencakup upaya terus-menerus untuk meningkatkan **kompetensi** dan **pengetahuan**. Dokter diharapkan untuk selalu memperbarui pengetahuan mereka dan mengembangkan keterampilan klinis agar dapat memberikan perawatan terbaik kepada pasien.
+
+### Accountability (Akuntabilitas)
+Akuntabilitas berarti dokter harus bertanggung jawab atas tindakan mereka terhadap pasien. Ini mencakup pengakuan atas kesalahan dan komitmen untuk memperbaiki serta belajar dari pengalaman tersebut. Dokter harus mampu menjelaskan keputusan medis yang diambil dan dampaknya terhadap pasien.
+
+### Altruism (Altruisme)
+Altruisme adalah komponen yang menekankan pentingnya meletakkan kepentingan pasien di atas kepentingan pribadi. Dokter harus menunjukkan empati dan dedikasi dalam merawat pasien, serta berkomitmen untuk memberikan pelayanan terbaik tanpa memikirkan imbalan pribadi.
+
+### Humanism (Humanisme)
+Humanisme dalam kedokteran melibatkan tiga prinsip utama: 
+- **Humanitarianism**: Berkomitmen terhadap pelayanan kemanusiaan.
+- **Respect for Others**: Menghargai rekan kerja dan staf medis lainnya.
+- **Honor and Integrity**: Berperilaku dengan integritas dan mematuhi aturan yang berlaku dalam praktik kedokteran.
+
+---
+
 ## Etika Hewan Uji
 
 Terdapat 3 item dalam etika hewan uji: *Replacement* yang terbagi menjadi *relatif* dan *absolut*, *Refinement*, dan *Reduction*.
@@ -68,11 +96,6 @@ Yang berarti penghalusan. Arti yang dimaksud disini adalah memperlakukan hewan u
 ### Reduction
 
 Yang berarti mengurangi. Disini diartikan sebagai meminimalisir jumlah sampel hewan yang digunakan dalam penelitian; misalnya menggunakan hanya 5 subjek dibandingkan 10.
-
----
-
-- Sejawat tidak boleh mengambil alih pasien dari drg. lain
-	- Hanya boleh melakukan hal-hal emergency/darurat dan premedikasi (eg. pemberian obat untuk mengurangi rasa nyeri)
 
 ---
 
@@ -101,6 +124,8 @@ Yang berarti mengurangi. Disini diartikan sebagai meminimalisir jumlah sampel he
 
 ---
 
+## Hubungan drg-pasien
+
 - Hubungan drg-pasien, disebut sebagai **kontrak terapeutik**
 	- Inspanning verbintennis
 		- drg. bekerja sesuai teori, kemudian pasien membayar
@@ -111,6 +136,8 @@ Yang berarti mengurangi. Disini diartikan sebagai meminimalisir jumlah sampel he
 	- Jika ada kedua itu + kontrak terapeutik: Pilih kontrak terapeutik
 
 ---
+
+## Sertifikat
 
 - Sertifikat kompetensi: Oleh Kolegium Dokter Gigi Indonesia (KDGI)
 - STR (Surat Tanda Registrasi) & SIP (Surat Izin Praktek): Oleh Konsil Kedokteran Indonesia (KKI)
@@ -124,3 +151,10 @@ Yang berarti mengurangi. Disini diartikan sebagai meminimalisir jumlah sampel he
 	5.	Sertifikat kompetensi
 	6.	STR
 	7.	SIP
+
+---
+
+## extranotes, lmao
+
+- Sejawat tidak boleh mengambil alih pasien dari drg. lain
+	- Hanya boleh melakukan hal-hal emergency/darurat dan premedikasi (eg. pemberian obat untuk mengurangi rasa nyeri)

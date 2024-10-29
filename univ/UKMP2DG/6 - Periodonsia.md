@@ -1,5 +1,9 @@
 # <center>Periodonsia</center>
 
+[toc]
+
+---
+
 ## Gingivitis
 
 - Gingivitis kronis
