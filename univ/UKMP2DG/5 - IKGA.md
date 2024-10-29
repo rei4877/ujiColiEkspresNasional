@@ -1,4 +1,4 @@
-<center>IKGA</center>
+# <center>IKGA</center>
 
 ## Tahap tumbuh kembang
 
@@ -37,7 +37,7 @@ Di tahap proliferasi yaitu **gangguan jumlah benih gigi**
 - Hipodonsia
     - Tidak ada **1-6 benih gigi**
 - Oligodonsia
-    - Tidak ada **\>6 benih gigi**
+    - Tidak ada **6 benih gigi**
 
 ### Gangguan tahap histodiferensiasi
 
@@ -122,7 +122,7 @@ Gangguan pada email dan dentin
 - Pulp capping
 	- Dengan Ca(OH)~2~
 	- Pulp capping direct
-		- Untuk pulpa pinpoint (<1mm)
+		- Untuk pulpa pinpoint (&lt;1mm)
 		- Menghasilkan **dentin reparatif**
 	- Pulp capping indirect
 		- Untuk selapis tipis dentin
@@ -158,9 +158,12 @@ Gangguan pada email dan dentin
 	- Bahan: Ca(OH)~2~
 	- Revaskularisasi
 - Avulsi gigi permanen
-	- Golden period: 1 sampai 2 jam
+	- Golden period: 1-2 jam
 	- Jika masih dalam golden period: **Replantasi**
 	- Diluar: **PSA**
+- Gigi intrusi
+	- Observasi selama 3-4 mgg.
+	- Jika tidak ada perubahan &rarr; Reposisi
 
 ---
 
@@ -195,7 +198,7 @@ Gangguan pada email dan dentin
 - Kooperatif
 	- Tenang
 - Tidak mampu kooperatif
-	- Anak <3th
+	- Anak &lt;3th
 	- Anak berkebutuhan khusus
 - Berpotensi kooperatif
 	- Butuh pendekatan
@@ -237,4 +240,4 @@ Gangguan pada email dan dentin
 	- 10 weeks of age **(Umur 10 minggu)**
 	- 10lbs of weight **(Berat badan 10 pon)**
 	- 10 g/dL of haemoglobin **(Hb darah 10g/dL)**
-	- <10,000/mm^3^ count of white blood cell **(Sel darah putih <10,0000/mm^3^)**
+	- &lt;10,000/mm^3^ count of white blood cell **(Sel darah putih &lt;10,0000/mm^3^)**

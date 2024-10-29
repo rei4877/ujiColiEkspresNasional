@@ -21,12 +21,12 @@
 - Periodontitis kronis
 	- Poket absolut/true pocket
 	- Ada kehilangan perlekatan
-	- Usia >35th
+	- Usia &gt;35th
 - Periodontitis akut (ANUP)
 	- Sama dengan ANUG
 	- Ada kerusakan tulang
 - Periodontitis agresif
-	- Lokalis: <2 gigi; Generalis: >2 gigi
+	- Lokalis: &lt;2 gigi; Generalis: &gt;2 gigi
 	- Usia maksimal 35th
 	- OH baik-sedang
 	- Poket infrabony
@@ -61,9 +61,9 @@
 	- Karies: Tambal sementara
 - Fase II - Bedah
 	- Gingivektomi: Poket (+), bengkak
-	- Kuretase: Poket (-)(<5mm), bengkak
+	- Kuretase: Poket (-)(&lt;5mm), bengkak
 	- Gingivoplasti: Untuk tepi gingiva yang tidak rata
-	- Bedah flap: Poket >6mm
+	- Bedah flap: Poket &gt;6mm
 	- ENAP (Open curretage): Excision for New Attachment Procedure
 - Fase III - Restoratif
 	- Restorasi akhir

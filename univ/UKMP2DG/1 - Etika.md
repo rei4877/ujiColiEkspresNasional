@@ -15,7 +15,7 @@
 | Sifat        | Kebaikan-keburukan | Kebenaran-kesalahan                   | Kebenaran-kesalahan |
 | Diatur dalam | Kodeki             | Aturan Disiplin Kedokteran            | Undang-Undang       |
 | Disusun oleh | IDI, PDGI          | KKI                                   | Negara              |
-| Sanksi       | Moral, nasihat     | Teguran > Re-edukasi > Pencabutan STR | Pidana, Perdata     |
+| Sanksi       | Moral, nasihat     | Teguran &rarr; Re-edukasi &rarr; Pencabutan STR | Pidana, Perdata     |
 | Pemeriksa    | MKEK               | MKDKI                                 | Pengadilan          |
 
 ---
@@ -115,7 +115,7 @@ Yang berarti mengurangi. Disini diartikan sebagai meminimalisir jumlah sampel he
 - Sertifikat kompetensi: Oleh Kolegium Dokter Gigi Indonesia (KDGI)
 - STR (Surat Tanda Registrasi) & SIP (Surat Izin Praktek): Oleh Konsil Kedokteran Indonesia (KKI)
 - Urutan sertifikat:
-	- Sertifikat Kompetensi > STR > SIP
+	- Sertifikat Kompetensi &rarr; STR &rarr; SIP
 - Untuk lulusan luar negeri:
 	1.	Daftar ke Kemendikbud
 	2.	Adaptasi

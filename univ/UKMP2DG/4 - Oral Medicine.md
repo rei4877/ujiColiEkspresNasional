@@ -4,30 +4,30 @@
 
 | Makula            | Bercak            | Papula                               | Plak                                 | Vesikel                                      | Bulla                                        |
 |-------------------|-------------------|--------------------------------------|--------------------------------------|----------------------------------------------|----------------------------------------------|
-| - Datar<br>- <1cm | - Datar<br>- >1cm | - Diatas mukosa<br>- Keras<br>- <1cm | - Diatas mukosa<br>- Keras<br>- >1cm | - Diatas mukosa<br>- Berisi cairan<br>- <1cm | - Diatas mukosa<br>- Berisi cairan<br>- >1cm |
+| - Datar<br>- &lt;1cm | - Datar<br>- &gt;1cm | - Diatas mukosa<br>- Keras<br>- &lt;1cm | - Diatas mukosa<br>- Keras<br>- &gt;1cm | - Diatas mukosa<br>- Berisi cairan<br>- &lt;1cm | - Diatas mukosa<br>- Berisi cairan<br>- &gt;1cm |
 
 <!-- - Makula
 	- Datar
-	- Ukuran <1cm
+	- Ukuran &lt;1cm
 - Bercak
 	- Datar
-	- Ukuran >1cm
+	- Ukuran &gt;1cm
 - Papula
 	- Diatas mukosa
 	- Keras
-	- <1cm
+	- &lt;1cm
 - Plak
 	- Diatas mukosa
 	- Keras
-	- Ukuran >1cm
+	- Ukuran &gt;1cm
 - Vesikel
 	- Diatas mukosa
 	- Berisi cairan
-	- Ukuran <1cm
+	- Ukuran &lt;1cm
 - Bulla
 	- Diatas mukosa
 	- Berisi cairan
-	- Ukuran >1cm -->
+	- Ukuran &gt;1cm -->
 
 ## Variasi normal
 
@@ -77,12 +77,12 @@
 ## Stomatitis
 
 - Minor
-	- Ukuran <1cm
+	- Ukuran &lt;1cm
 	- Penyembuhan &pm;14 hari
 	- Pada mukosa non-keratin
 - Mayor
-	- Ukuran >1cm
-	- Penyembuhan >14 hari
+	- Ukuran &gt;1cm
+	- Penyembuhan &gt;14 hari
 	- Pada mukosa berkeratin
 - Herpetiform
 	- Ukuran kecil, jml. banyak

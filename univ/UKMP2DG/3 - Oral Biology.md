@@ -94,11 +94,11 @@
 - Jenis-jenis biopsi:
 
 	- Biopsi insisi
-		- Untuk lesi berukuran >3cm
+		- Untuk lesi berukuran &gt;3cm
 		- Sedikit bagian lesi diambil
 		- **Gold standard**
 	- Biopsi eksisi
-		- Untuk lesi berukuran <3cm
+		- Untuk lesi berukuran &lt;3cm
 		- Seluruh lesi diambil
 	- FNAB
 		- Fine-needle Aspiration Biopsy
@@ -143,7 +143,7 @@
 
 - Tipe I - Anafilaktik
 	- IgE
-	- <24 jam
+	- &lt;24 jam
 	- Alergi
 - Tipe II - Cytotoxic
 	- IgG dan IgM
@@ -153,7 +153,7 @@
 	- Lupus
 - Tipe IV - Cell-mediated/delayed
 	- T-cell
-	- Alergi >24 jam
+	- Alergi &gt;24 jam
 	- Dermatitis kontak, lichenoid reaction
 
 ---
