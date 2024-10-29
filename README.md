@@ -15,4 +15,4 @@ Klik link sesuai departemen yang diinginkan:
 - [Ortodonsia](/univ/UKMP2DG/7%20-%20Ortodonsia.md)
 - [Periodonsia](/univ/UKMP2DG/6%20-%20Periodonsia.md)
 - [Prostodonsia]
-- [Radiologi Dental]
+- [Radiologi Dental](univ/UKMP2DG/9%20-%20Radiologi%20Dental.md)
