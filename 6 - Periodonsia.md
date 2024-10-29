@@ -44,7 +44,7 @@
 
 ## Fase perawatan
 
-<img src="../../_resources/Untitled-2024-10-29-0849.png" width="350" class="jop-noMdConv">
+<img src="_resources/Untitled-2024-10-29-0849.png" width="350" class="jop-noMdConv">
 
 - Fase emergency
 	- Abses gingiva & abses periodontal: Insisi & drainase
