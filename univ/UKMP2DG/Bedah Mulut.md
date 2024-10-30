@@ -146,7 +146,8 @@ Contoh 2: Pasien dengan berat badan 100kg
 
 ## Celah / Cleft
 
--Ada complete & incomplete
+Ada complete & incomplete
+
 - Labioschisis
 - Palatoschisis
 - Gnatoschisis
