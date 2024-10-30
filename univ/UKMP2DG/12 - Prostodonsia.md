@@ -1,3 +1,12 @@
+---
+title: 12 - Prostodonsia
+updated: 2024-10-30 13:30:40Z
+created: 2024-10-30 01:43:25Z
+latitude: -6.16832950
+longitude: 106.75884940
+altitude: 0.0000
+---
+
 # <center>Prostodonsia</center>
 
 
@@ -112,7 +121,9 @@ Memiliki 3 komponen
 	- :moyai: Ovate &rarr; Untuk estetik; pasca pencabutan
 	- :moyai: Conical root &rarr; Untuk linggir yang sempit
 <br>
+
 Jenis GTC
+
 - Fixed-fixed &rarr; Kedua konektor rigid &rarr; Terbaik
 - Semi-fixed &rarr; Salah satu konektor non-rigid
 - Maryland/adhesive bridge &rarr; Gigi anterior; preparasi minimal
@@ -122,12 +133,14 @@ Jenis GTC
 ---
 
 ## Akhiran servikal
+
 - Chamfer &rarr; Untuk all porcelain (Karena mengutamakan estetik)
 - Shoulder &rarr; PFM (Untuk retensi)
 
 ---
 
 ## Karakteristik pasien geriatri
+
 - Philosophical mind &rarr; Kooperatif
 - Exacting mind &rarr; Berawal tidak kooperatif, namun perlahan kooperatif (Dengan kata lain: Philosophical mind yang tertunda)
 - Hysterical mind &rarr; Tidak kooperatif, banyak tuntutan dan kemauan

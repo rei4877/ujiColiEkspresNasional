@@ -1,3 +1,12 @@
+---
+title: 9 - Radiologi Dental
+updated: 2024-10-30 13:32:27Z
+created: 2024-10-29 15:39:05Z
+latitude: -6.18648640
+longitude: 106.83409110
+altitude: 0.0000
+---
+
 
 # <center>Radiologi Kedokteran Gigi</center>
 
@@ -51,7 +60,7 @@
 
 > :warning: **Klasifikasi Le Fort:**
 >
-> <img src="../../_resources/e99447bb08d3568a9e1f8f2aad9879ba.png" width="350" class="jop-noMdConv">
+> <img src="../../_resources/e99447bb08d3568a9e1f8f2aad9879ba.png" width="350">
 >
 >  - Le Fort I &rarr; Floating jaw
 > - Le Fort II &rarr; Raccoon's eye

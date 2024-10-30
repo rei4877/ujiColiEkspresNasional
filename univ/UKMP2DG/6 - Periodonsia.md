@@ -1,3 +1,12 @@
+---
+title: 6 - Periodonsia
+updated: 2024-10-30 13:32:18Z
+created: 2024-10-29 01:38:47Z
+latitude: -6.16832950
+longitude: 106.75884940
+altitude: 0.0000
+---
+
 # <center>Periodonsia</center>
 
 [toc]
@@ -48,7 +57,7 @@
 
 ## Fase perawatan
 
-<img src="../../_resources/Untitled-2024-10-29-0849.png" width="350" class="jop-noMdConv">
+<img src="../../_resources/Untitled-2024-10-29-0849.png" width="350">
 
 - Fase emergency
 	- Abses gingiva & abses periodontal: Insisi & drainase
@@ -97,7 +106,7 @@
 
 ## Resesi
 
-<img src="../../_resources/918b3b3bf7f69ca2527dec6cf12dd0fa.png" width="350" class="jop-noMdConv">
+<img src="../../_resources/918b3b3bf7f69ca2527dec6cf12dd0fa.png" width="350">
 
 - Perawatan: Coronally Reposition Flap (Termasuk ke Fase II)
 - Pengukuran menggunakan probe UNC 15
@@ -112,7 +121,7 @@
  
 ## Lesi furkasi
 
-<img src="../../_resources/26c5fefc814fa48b982dd7331ed3a4d1.png" width="350" class="jop-noMdConv">
+<img src="../../_resources/26c5fefc814fa48b982dd7331ed3a4d1.png" width="350">
 
 - Pengukuran menggunakan probe Nabers
 - Grade I

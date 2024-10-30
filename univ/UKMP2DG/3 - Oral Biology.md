@@ -1,3 +1,12 @@
+---
+title: 3 - Oral Biology
+updated: 2024-10-29 15:35:32Z
+created: 2024-10-28 07:31:00Z
+latitude: -6.16832950
+longitude: 106.75884940
+altitude: 0.0000
+---
+
 # <center>Oral Biology</center>
 
 [toc]

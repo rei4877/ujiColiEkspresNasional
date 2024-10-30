@@ -1,3 +1,12 @@
+---
+title: 5 - IKGA
+updated: 2024-10-30 13:31:54Z
+created: 2024-10-29 00:06:00Z
+latitude: -6.18648640
+longitude: 106.83409110
+altitude: 0.0000
+---
+
 # <center>IKGA</center>
 
 [toc]
@@ -95,7 +104,7 @@ Gangguan pada email dan dentin
 
 ## Klasifikasi trauma Ellis & Davey
 
-<img src="../../_resources/c9b8bd35f0ff198eabc8b63a00adf931.png" width="350" class="jop-noMdConv">
+<img src="../../_resources/c9b8bd35f0ff198eabc8b63a00adf931.png" width="350">
 
 - Klas I
     - Email

@@ -1,3 +1,12 @@
+---
+title: 7 - Ortodonsia
+updated: 2024-10-30 13:32:21Z
+created: 2024-10-29 05:51:10Z
+latitude: -6.16832950
+longitude: 106.75884940
+altitude: 0.0000
+---
+
 # <center>Ortodonsia</center>
 
 [toc]
@@ -6,7 +15,7 @@
 
 ## Relasi molar
 
-<img src="../../_resources/76de85eacede22f582f1241b54ddaae2.png" width="350" class="jop-noMdConv">
+<img src="../../_resources/76de85eacede22f582f1241b54ddaae2.png" width="350">
 
 ### Relasi molar gigi sulung
 

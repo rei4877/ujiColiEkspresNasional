@@ -1,3 +1,12 @@
+---
+title: 1 - Etika
+updated: 2024-10-29 15:37:53Z
+created: 2024-10-26 13:19:39Z
+latitude: -6.16832950
+longitude: 106.75884940
+altitude: 0.0000
+---
+
 # <center>Etika</center>
 
 [TOC]

@@ -1,3 +1,12 @@
+---
+title: 8 - Konservasi
+updated: 2024-10-30 13:32:25Z
+created: 2024-10-29 10:26:44Z
+latitude: -6.16832950
+longitude: 106.75884940
+altitude: 0.0000
+---
+
 # <center>Konservasi</center>
 
 [toc]
@@ -8,7 +17,7 @@
 
 ### GV Black
 
-<img src="../../_resources/86a842ef274285751dfe0d7239a8bece.png" width="350" class="jop-noMdConv">
+<img src="../../_resources/86a842ef274285751dfe0d7239a8bece.png" width="350">
 
 - Kelas I: Pit & fissure; oklusal gigi post.
 - Kelas II: Proksimal gigi post.
@@ -19,7 +28,7 @@
 
 ### Mount & Hume
 
-<img src="../../_resources/3107c061c6ef854d9197e93733dc7c2c.png" width="350" class="jop-noMdConv">
+<img src="../../_resources/3107c061c6ef854d9197e93733dc7c2c.png" width="350">
 
 - Dibagi menjadi **Site** (situs) dan **Size** (ukuran)
 - Site:
@@ -35,7 +44,7 @@
 
 ### ICDAS (International Caries Detection & Assessment System)
 
-<img src="../../_resources/ab133fd297a7b508d9625b92adee215a.png" width="350" class="jop-noMdConv">
+<img src="../../_resources/ab133fd297a7b508d9625b92adee215a.png" width="350">
 
 - D0 - Tidak ada lesi
 - D1 - Lesi kering

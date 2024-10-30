@@ -1,3 +1,12 @@
+---
+title: 4 - Oral Medicine
+updated: 2024-10-29 15:35:30Z
+created: 2024-10-28 10:06:36Z
+latitude: -6.16832950
+longitude: 106.75884940
+altitude: 0.0000
+---
+
 # <center>Oral Medicine</center>
 
 [toc]

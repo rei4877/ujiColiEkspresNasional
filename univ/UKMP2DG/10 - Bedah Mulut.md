@@ -1,3 +1,12 @@
+---
+title: 10 - Bedah Mulut
+updated: 2024-10-30 13:33:58Z
+created: 2024-10-29 17:30:25Z
+latitude: -6.18648640
+longitude: 106.83409110
+altitude: 0.0000
+---
+
 # <center>Bedah Mulut</center>
 
 
@@ -9,7 +18,7 @@
 
 ### Klasifikasi impaksi molar :moyai:
 
-<img src=":/ad81b1a7df714018977d9f3fc23aa236" width="350" class="jop-noMdConv">
+<img src="../../_resources/Pell__and__Gregory.jpg" width="350">
 
 - Kedalaman (Level A, B, C)
 	- A &rarr; Occlusal plane M3 berada di **sama atau lebih tinggi dari **occlusal plane M2
@@ -32,10 +41,10 @@
 
 ## Syok anafilaktik
 
-<img src=":/64ce75ae01c64d57a5aae5120486a2e3" width="350" class="jop-noMdConv">
+<img src="../../_resources/5b73e6fde0d9f857935d420e30a1ee8d.png" width="350">
 
 
-<img src=":/661fe6820ccb4056b523561894f58cec" width="350" class="jop-noMdConv">
+<img src="../../_resources/3468320ffcc2d5b133aae462cfa32dde.png" width="350">
 
 - Terjadi penurunan tekanan darah (< 100)
 - Terjadi saat melakukan penyuntikan
@@ -51,10 +60,10 @@
 	- Posisi Trendelenburg
  
 ---
+
 ## Flap
 
-<img src=":/a87f4a536f8143b7aee8c3fcbf880098" width="350" class="jop-noMdConv">
-
+<img src="../../_resources/b1167139c6aeb8caae19919a0c3e915a.png" width="350">
 
 ### Flap menurut Yukna
 
@@ -99,6 +108,7 @@
 - Dosis maksimum lidokain dan epinefrin &rarr; `7mg/kgBB`
 	- Dalam sehari: `500mg`
 	- Bulatkan ke bawah &rarr; Menghindari toksisitas
+
 ```
 Contoh 1: Pasien dengan berat badan 60kg
 
@@ -135,9 +145,9 @@ Contoh 2: Pasien dengan berat badan 100kg
 `= 0,025mg` epinefrin dalam 1 ampul
 <br>
 - Untuk pasien sehat/normal
-	- `0,2mg` epinefrin
+	- Maksimal `0,2mg` epinefrin
 - Untuk pasien hipertensi
-  - `0,04mg` epinefrin
+  - Maksimal `0,04mg` epinefrin
  
 ---
 
