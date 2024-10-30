@@ -63,7 +63,9 @@
 
 - Powder: Fluoroaminosilikat
 - Liquid: As. poliakrilat
+
 <br>
+
 - Tipe I &rarr; Luting (Sementasi **tanpa** logam)
 - Tipe II &rarr; Restorasi
 	- 2.1 - Anterior
@@ -77,7 +79,9 @@
 - Tipe VII &rarr; Fluoride-releasing
 - Tipe VIII &rarr; ART (Atraumatic restorative treatment/Restorasi atraumatik)
 - Tipe IX &rarr; Gigi sulung
+
 <br>
+
   > :memo: **ZOE** &rarr; Digunakan untuk restorasi sementara
 
 ---

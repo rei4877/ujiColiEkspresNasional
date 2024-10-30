@@ -98,10 +98,14 @@
 	- Bentuk occlusal plane concave
 - Head tilt too low
 	- Bentuk occlusal plane convex
+
 <br>
+
 - Developer &rarr; Menggelapkan
 - Fixer &rarr; Mencerahkan
+
 <br>
+
 - Terlalu terang
 	- Underdeveloped
 	- Overfixed
@@ -110,7 +114,9 @@
 	- Overdeveloped
 	- Underfixed
 	- Overexposed
+
 <br>
+
 - Tampak tin foil &rarr; Reversed film (film terbalik)
 - Gambar tumpang tindih &rarr; Double exposed
 - Tak tampak gambar &rarr; Unexposed

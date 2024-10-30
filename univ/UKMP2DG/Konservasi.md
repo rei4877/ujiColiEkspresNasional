@@ -110,7 +110,9 @@ Mikroorganisme
 
 - Bahan etsa &rarr; As. fosfat 37%
 - Bahan bonding &rarr; As. poliakrilat 10%
+
 <br>
+
 - Generasi IV
 	- Etsa, primer, adhesive
 	- **Total etch 2 step**
@@ -148,7 +150,9 @@ Mikroorganisme
 
 - Powder: Fluoroaminosilikat
 - Liquid: As. poliakrilat
+
 <br>
+
 - Tipe I &rarr; Luting
 - Tipe II &rarr; Restorasi
 	- 2.1 - Anterior

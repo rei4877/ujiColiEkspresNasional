@@ -84,7 +84,9 @@
 	- Lingual plate &rarr; Tinggi dasar mulut &le; 5mm
 	- :moyai: Double lingual bar &rarr; Terdapat kegoyangan di anterior
 	- Labial bar &rarr;  Gigi anterior yang berinklinasi ke lingual
+
 <br>
+
 - Klamer GTKL
 	- :moyai: RPI &rarr; Lengan lurus
 	- :moyai: RPA &rarr;  Lengan miring
@@ -111,6 +113,7 @@ Memiliki 3 komponen
 	- :moyai: Modified ridge lap &rarr; Untuk estetik; anterior RA
 	- :moyai: Ovate &rarr; Untuk estetik; pasca pencabutan
 	- :moyai: Conical root &rarr; Untuk linggir yang sempit
+
 <br>
 
 Jenis GTC
