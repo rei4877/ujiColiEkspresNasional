@@ -157,7 +157,7 @@ Contoh 2: Pasien dengan berat badan 100kg
 - 10 weeks of age **(Umur 10 minggu)**
 - 10lbs of weight **(Berat badan 10 pon)**
 - 10 g/dL of haemoglobin **(Hb darah 10g/dL)**
-- &lt;10,000/mm^3^ count of white blood cell **(Sel darah putih &lt;10,0000/mm^3^)**
+- &lt;10,000/mm<sup>3</sup> count of white blood cell **(Sel darah putih &lt;10,0000/mm<sup>3</sup>)**
 
 ---
 

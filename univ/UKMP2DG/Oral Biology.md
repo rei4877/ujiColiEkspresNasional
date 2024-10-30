@@ -80,7 +80,7 @@
 	4.	Dolor (Nyeri/sakit)
 	5.	Fungsiolesa (Kehilangan fungsi)
 - Sel radang: PMN (Polymorfonuklear)
-- Sel mediator: PgE~2~ (Prostaglandin E~2~)
+- Sel mediator: PgE<sub>2</sub> (Prostaglandin E<sub>2</sub>)
 - Sel akut
 	- Eosinofil
 	- Basofil

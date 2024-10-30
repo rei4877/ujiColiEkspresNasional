@@ -124,7 +124,7 @@ Gangguan pada email dan dentin
 ## Perawatan gigi sulung
 
 - Pulp capping
-	- Dengan Ca(OH)~2~
+	- Dengan Ca(OH)<sub>2</sub>
 	- Pulp capping direct
 		- Untuk pulpa pinpoint (&lt;1mm)
 		- Menghasilkan **dentin reparatif**
@@ -152,14 +152,14 @@ Gangguan pada email dan dentin
 ## Perawatan gigi permanen muda
 
 - Pulp capping
-	- Dengan Ca(OH)~2~
+	- Dengan Ca(OH)<sub>2</sub>
 - Apeksogenesis
 	- ⚠️ **Untuk gigi vital** ⚠️
-	- Bahan: Ca(OH)~2~
-	- == Pulpotomi Ca(OH)~2~
+	- Bahan: Ca(OH)<sub>2</sub>
+	- == Pulpotomi Ca(OH)<sub>2</sub>
 - Apeksifikasi
 	- ⚠️ **Untuk gigi nonvital** ⚠️
-	- Bahan: Ca(OH)~2~
+	- Bahan: Ca(OH)<sub>2</sub>
 	- Revaskularisasi
 - Avulsi gigi permanen
 	- Golden period: 1-2 jam
@@ -244,4 +244,4 @@ Gangguan pada email dan dentin
 	- 10 weeks of age **(Umur 10 minggu)**
 	- 10lbs of weight **(Berat badan 10 pon)**
 	- 10 g/dL of haemoglobin **(Hb darah 10g/dL)**
-	- &lt;10,000/mm^3^ count of white blood cell **(Sel darah putih &lt;10,0000/mm^3^)**
+	- &lt;10,000/mm<sup>3</sup> count of white blood cell **(Sel darah putih &lt;10,0000/mm<sup>3</sup>)**
