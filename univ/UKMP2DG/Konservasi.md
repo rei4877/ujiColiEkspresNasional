@@ -1,12 +1,3 @@
----
-title: 8 - Konservasi
-updated: 2024-10-30 13:32:25Z
-created: 2024-10-29 10:26:44Z
-latitude: -6.16832950
-longitude: 106.75884940
-altitude: 0.0000
----
-
 # <center>Konservasi</center>
 
 [toc]

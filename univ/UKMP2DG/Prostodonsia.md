@@ -1,12 +1,3 @@
----
-title: 12 - Prostodonsia
-updated: 2024-10-30 13:30:40Z
-created: 2024-10-30 01:43:25Z
-latitude: -6.16832950
-longitude: 106.75884940
-altitude: 0.0000
----
-
 # <center>Prostodonsia</center>
 
 

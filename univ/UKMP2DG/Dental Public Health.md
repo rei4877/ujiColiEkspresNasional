@@ -1,12 +1,3 @@
----
-title: 2 - Dental Public Health
-updated: 2024-10-29 15:38:04Z
-created: 2024-10-27 15:05:51Z
-latitude: -6.92773610
-longitude: 106.92995790
-altitude: 0.0000
----
-
 # <center>Dental Public Health</center>
 
 [toc]

@@ -1,12 +1,3 @@
----
-title: 9 - Radiologi Dental
-updated: 2024-10-30 13:32:27Z
-created: 2024-10-29 15:39:05Z
-latitude: -6.18648640
-longitude: 106.83409110
-altitude: 0.0000
----
-
 
 # <center>Radiologi Kedokteran Gigi</center>
 

@@ -1,12 +1,3 @@
----
-title: 5 - IKGA
-updated: 2024-10-30 13:31:54Z
-created: 2024-10-29 00:06:00Z
-latitude: -6.18648640
-longitude: 106.83409110
-altitude: 0.0000
----
-
 # <center>IKGA</center>
 
 [toc]

@@ -1,12 +1,3 @@
----
-title: 11 - IMTKG
-updated: 2024-10-30 01:43:07Z
-created: 2024-10-30 00:36:39Z
-latitude: -6.18648640
-longitude: 106.83409110
-altitude: 0.0000
----
-
 # <center>Dental Material</center>
 
 

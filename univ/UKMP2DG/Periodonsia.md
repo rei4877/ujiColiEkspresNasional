@@ -1,12 +1,3 @@
----
-title: 6 - Periodonsia
-updated: 2024-10-30 13:32:18Z
-created: 2024-10-29 01:38:47Z
-latitude: -6.16832950
-longitude: 106.75884940
-altitude: 0.0000
----
-
 # <center>Periodonsia</center>
 
 [toc]

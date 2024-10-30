@@ -9,7 +9,7 @@
 
 ### Klasifikasi impaksi molar :moyai:
 
-<img src=":/ad81b1a7df714018977d9f3fc23aa236" width="350">
+<img src="../../_resources/Pell__and__Gregory.jpg" width="350">
 
 - Kedalaman (Level A, B, C)
 	- A &rarr; Occlusal plane M3 berada di **sama atau lebih tinggi dari **occlusal plane M2
@@ -32,10 +32,10 @@
 
 ## Syok anafilaktik
 
-<img src=":/64ce75ae01c64d57a5aae5120486a2e3" width="350">
+<img src="../../_resources/5b73e6fde0d9f857935d420e30a1ee8d.png" width="350">
 
 
-<img src=":/661fe6820ccb4056b523561894f58cec" width="350">
+<img src="../../_resources/3468320ffcc2d5b133aae462cfa32dde.png" width="350">
 
 - Terjadi penurunan tekanan darah (< 100)
 - Terjadi saat melakukan penyuntikan
@@ -54,7 +54,7 @@
 
 ## Flap
 
-<img src=":/a87f4a536f8143b7aee8c3fcbf880098" width="350">
+<img src="../../_resources/b1167139c6aeb8caae19919a0c3e915a.png" width="350">
 
 ### Flap menurut Yukna
 
