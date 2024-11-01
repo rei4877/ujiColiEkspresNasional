@@ -39,9 +39,11 @@ Di tahap proliferasi yaitu **gangguan jumlah benih gigi**
 - Anodonsia
     - Tidak ada **benih gigi sama sekali**
 - Hipodonsia
-    - Tidak ada **1-6 benih gigi**
+    - Tidak ada **1 - 6 benih gigi**
 - Oligodonsia
-    - Tidak ada **6 benih gigi**
+    - Tidak ada **6 > benih gigi**
+ 
+Urutan dari terkecil ke terbesar: Hipodonsia &rarr; Oligodonsia &rarr; Anodonsia
 
 ### Gangguan tahap histodiferensiasi
 
